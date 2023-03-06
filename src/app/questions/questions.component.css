@@ -1,0 +1,45 @@
+.mainCard {
+  margin: 50px;
+  border: 1px solid rgb(163, 163, 163);
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.nameColor {
+  padding: 10px;
+  color: rgb(65, 40, 3);
+  background-color: rgb(137, 217, 253);
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px rgb(176, 176, 176);
+}
+
+.question {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin-bottom: 20px;
+}
+
+ol {
+  width: 50vw;
+  margin-left: 30px;
+}
+
+li {
+  background-color: rgb(177, 177, 177);
+  padding-left: 20px;
+  list-style-type: none;
+  cursor: pointer;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+li:hover {
+  border: 1px solid rgb(71, 51, 136);
+  background-color: lightcyan;
+}
+
+._explaination {
+  border: 1px solid rgb(81, 81, 81);
+  border-radius: 10px;
+  padding: 20px;
+  margin-top: 20px;
+}

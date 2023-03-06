@@ -1,0 +1,11 @@
+.footer{
+    width: 100vw;
+    height: 5vh;
+    background-color: #151515
+}
+
+p{
+    color: rgb(217, 215, 215);
+    padding-top: 2px;
+    font-size: 15px;
+}
